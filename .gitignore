@@ -1,0 +1,9 @@
+data/
+raw/
+CSVs/
+*.csv
+
+data/
+raw/
+PDFs/
+*.pdf
