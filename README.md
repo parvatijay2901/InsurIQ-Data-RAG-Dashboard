@@ -4,4 +4,5 @@ Dashboard for comprehensive EDA and visualization of health insurance data, inte
 ## To Do: 
 - Integrate the analysis and RAG setup into a single Panel dashboard.
 - Update CI
+- Add test scripts
 - Modify README
