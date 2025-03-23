@@ -1,2 +1,5 @@
 # InsurIQ: Data and RAG Dashboard
-Streamlit dashboard for comprehensive exploratory data analysis and visualization of health insurance data, integrated with a retrieval-augmented generation (RAG) module to extract actionable insights from insurance PDFs.
+Dashboard for comprehensive EDA and visualization of health insurance data, integrated with a RAG module to extract actionable insights from insurance PDFs.
+
+## To Do: 
+- Integrate the analysis and RAG setup into a single Panel dashboard.
